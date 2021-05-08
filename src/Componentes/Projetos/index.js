@@ -19,7 +19,7 @@ function Projetos() {
                     <h3>Tecnologias Usadas</h3>
                     <p>JavaScript | React.Js | Css</p>
 
-                    <a href='https://portfilofernandogoncalves.netlify.app/' target='_blank'>Link</a>
+                    <a href='https://calculadoraimcfernando.netlify.app/' target='_blank'>Link</a>
                 </div>
 
                 <div id='projeto-meio'>
