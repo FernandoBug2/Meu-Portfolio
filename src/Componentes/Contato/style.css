@@ -1,0 +1,31 @@
+footer {
+    font-size: 25px;
+    height: 380px;
+    background-color: rgb(34, 33, 33);
+    font-size: 25px;
+    border-left: 2px solid white;
+    border-right: 2px solid white;
+    border-bottom: 2px solid white;
+    text-shadow: 10px 10px 10px black;
+}
+
+footer p {
+    padding-top: 20px;
+}
+
+footer a {
+    color: white;
+}
+
+footer h2 {
+    padding-top: 40px;
+    padding-bottom: 30px;
+}
+
+.div-footer {
+    color: white;
+}
+
+footer a:hover {
+    color: rgb(46, 46, 209);
+}

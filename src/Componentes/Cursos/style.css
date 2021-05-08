@@ -1,0 +1,72 @@
+.section_cursos {
+    height: 500px;
+    background-color: rgb(34, 33, 33);
+    border-left: 2px solid white;
+    border-right: 2px solid white;
+}
+
+.imagens_icones img {
+    margin-top: 20px;
+    height: 230px;
+    width: 250px;
+    object-fit: cover;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: rgb(41, 41, 41);
+    box-shadow: 10px 10px 20px black;
+    transition: 1s;
+}
+
+.conteudo_cursos {
+    padding-top: 60px;
+    font-size: 25px;
+    color: white;
+    text-shadow: 10px 10px 10px black;
+}
+
+.conteudo_cursos h2 {
+    padding-bottom: 50px;
+}
+
+.css {
+    padding-right: 30px;
+    padding-left: 30px;
+}
+
+.react {
+    padding-left: 30px;
+}
+
+.imagens_icones img:hover {
+    background-color: rgb(194, 194, 194);
+    transition: 1s;
+}
+
+@media (max-width: 1300px) {
+    .section_cursos {
+        height: 670px;
+    }
+
+    .react {
+        padding-right: 30px;
+        padding-left: 30px;
+    }
+}
+
+@media (max-width: 955px) {
+    .section_cursos {
+        height: 670px;
+    }
+}
+
+@media (max-width: 660px) {
+    .section_cursos {
+        height: 1200px;
+    }
+
+    .react {
+        padding-right: 30px;
+        padding-left: 30px;
+    }
+
+}
